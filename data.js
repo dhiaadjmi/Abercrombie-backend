@@ -31,6 +31,46 @@ const data = {
         numReviews: 10,
         description: 'high quality shirt',
       },
+      {
+        //_id: '1',
+        name: 'dhia',
+        slug: 'dhia',
+        category: 'Shirts',
+        image: '/images/aber1.webp', 
+        price: 120,
+        countInStock: 0,
+        brand: 'Nike',
+        rating: 4,
+        numReviews: 10,
+        description: 'high quality shirt',
+      },
+      {
+        //_id: '1',
+        name: 'ahmed',
+        slug: 'ahmed',
+        category: 'Shirts',
+        image: '/images/aber1.webp', 
+        price: 120,
+        countInStock: 10,
+        brand: 'Nike',
+        rating: 4,
+        numReviews: 10,
+        description: 'high quality shirt',
+      },
+      {
+        //_id: '1',
+        name: 'fatma',
+        slug: 'fatma',
+        category: 'Shirts',
+        image: '/images/aber1.webp', 
+        price: 120,
+        countInStock: 10,
+        brand: 'Nike',
+        rating: 4,
+        numReviews: 10,
+        description: 'high quality shirt',
+      }
+      
 
   /** 
       {

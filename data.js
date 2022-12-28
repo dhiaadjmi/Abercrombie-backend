@@ -33,6 +33,20 @@ const data = {
       },
       {
         //_id: '1',
+        name: 'pull',
+        slug: 'pull',
+        category: 'Shirts',
+        image: '/images/aber1.webp', 
+        price: 120,
+        countInStock: 10,
+        brand: 'Nike',
+        rating: 4,
+        numReviews: 10,
+        description: 'high quality shirt',
+      },
+     
+      {
+        //_id: '1',
         name: 'dhia',
         slug: 'dhia',
         category: 'Shirts',
